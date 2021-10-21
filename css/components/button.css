@@ -1,0 +1,13 @@
+.btn-shop {
+	background-color: #B18F63;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: #F5F3F5;
+	font-weight: bold;
+	font-family: "Josephin Sans"
+}
+
+.btn-shop:hover {
+	background-color: #F5F3F5;
+	color: #B18F63;
+}

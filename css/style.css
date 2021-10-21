@@ -1,0 +1,53 @@
+@import url("components/banner.css")
+@import url("components/button.css")
+@import url("components/container.css")
+
+body {
+	font-family: "Josephin Sans"
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2, h3 {
+	font-family: "Arapey";
+}
+
+h1{
+	color: #F5F3F5;
+}
+
+h2 {
+	color: #B18F63;
+}
+
+h3 {
+	color: #1D3958;
+}
+
+p {
+	text-decoration: none;
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: "Josephin Sans";
+	text-align: justify;
+}
+
+a {
+	text-decoration: none;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+* {box-sizing:border-box}
+
